@@ -12,4 +12,5 @@ This mod features 2 DLL's<br>
 
 # The Client
 - No cooldown on Client
+- Vanilla Compatable
 - Plays when Legal on Server
