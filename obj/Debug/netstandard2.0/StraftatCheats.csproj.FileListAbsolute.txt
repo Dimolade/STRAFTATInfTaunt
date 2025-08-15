@@ -1,0 +1,5 @@
+/home/deck/Documents/Unity Projects/StraftatCheats/obj/Debug/netstandard2.0/StraftatCheats.csproj.AssemblyReference.cache
+/home/deck/Documents/Unity Projects/StraftatCheats/obj/Debug/netstandard2.0/StraftatCheats.GeneratedMSBuildEditorConfig.editorconfig
+/home/deck/Documents/Unity Projects/StraftatCheats/obj/Debug/netstandard2.0/StraftatCheats.AssemblyInfoInputs.cache
+/home/deck/Documents/Unity Projects/StraftatCheats/obj/Debug/netstandard2.0/StraftatCheats.AssemblyInfo.cs
+/home/deck/Documents/Unity Projects/StraftatCheats/obj/Debug/netstandard2.0/StraftatCheats.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "z81EXdUh7QE=",
+  "success": true,
+  "projectFilePath": "/home/deck/Documents/Unity Projects/STRAFTATInfTaunt/StraftatFakeName.csproj",
+  "expectedPackageFiles": [
+    "/home/deck/.nuget/packages/bepinex.analyzers/1.0.8/bepinex.analyzers.1.0.8.nupkg.sha512",
+    "/home/deck/.nuget/packages/bepinex.baselib/5.4.20/bepinex.baselib.5.4.20.nupkg.sha512",
+    "/home/deck/.nuget/packages/bepinex.core/5.4.21/bepinex.core.5.4.21.nupkg.sha512",
+    "/home/deck/.nuget/packages/bepinex.plugininfoprops/2.1.0/bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "/home/deck/.nuget/packages/harmonyx/2.7.0/harmonyx.2.7.0.nupkg.sha512",
+    "/home/deck/.nuget/packages/ilrepack.lib.msbuild.task/2.0.40/ilrepack.lib.msbuild.task.2.0.40.nupkg.sha512",
+    "/home/deck/.nuget/packages/lib.harmony/2.3.3/lib.harmony.2.3.3.nupkg.sha512",
+    "/home/deck/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/deck/.nuget/packages/microsoft.netframework.referenceassemblies.net471/1.0.2/microsoft.netframework.referenceassemblies.net471.1.0.2.nupkg.sha512",
+    "/home/deck/.nuget/packages/mono.cecil/0.11.4/mono.cecil.0.11.4.nupkg.sha512",
+    "/home/deck/.nuget/packages/monomod.runtimedetour/21.12.13.1/monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "/home/deck/.nuget/packages/monomod.utils/21.12.13.1/monomod.utils.21.12.13.1.nupkg.sha512",
+    "/home/deck/.nuget/packages/unityengine.modules/2021.3.16/unityengine.modules.2021.3.16.nupkg.sha512"
+  ],
+  "logs": []
+}

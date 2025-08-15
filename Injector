@@ -1,0 +1,6 @@
+sudo -E /usr/sbin/capsh --keep=1 --user=${USER} --inh=cap_sys_admin --addamb=cap_sys_admin -- -c 'protontricks-launch --no-bwrap --appid 2386720 /home/deck/Games/SharpMonoInjector.Gui/smi_gui.exe'
+
+export PROTON_VERSION="Proton Experimental"
+flatpak run com.github.Matoking.protontricks --gui
+
+Z:/home/deck/Documents/Unity Projects/StraftatCheats/bin/Debug/net471/StraftatCheats.dll

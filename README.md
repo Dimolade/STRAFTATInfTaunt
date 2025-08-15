@@ -1,0 +1,2 @@
+# STRAFTATInfTaunt
+ No Taunt Cooldown!
